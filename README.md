@@ -3,7 +3,7 @@
 - 🔭 Estudante de Engenharia da Computação 2/10
 - 🌱 Estudando Python, C++ e Java
 - 🤖 Gosto de Robótica, IA, Segurança de Informação e Desenvolvimento de Software
-- ⚡ Fun fact: Já deduzi uma fórmula matemática, ainda no Ensino Médio
+- ⚡ Fun fact: Já deduzi e criei uma fórmula matemática, ainda no Ensino Médio
 - 📫 Contato: pedro.caillaux@gmail.com
           
 <div align="center">
