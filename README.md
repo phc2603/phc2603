@@ -1,6 +1,6 @@
 ### Hello World! Me chamo Pedro Caillaux, muito prazer👋
 
-- 🔭 Estudante de Engenharia da Computação 2/10
+- 🔭 Estudante de Engenharia da Computação 3/10
 - 🌱 Estudando Python, C++ e Java
 - 🤖 Gosto de Robótica, IA, Segurança da Informação e Desenvolvimento de Software
 - ⚡ Fun fact: Já deduzi e criei uma fórmula matemática, ainda no Ensino Médio
