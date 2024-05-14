@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Engenharia da Computação 5/10
 - 🌱 Sempre buscando masterizar mais em Python e Java
-- ![image](https://github.com/phc2603/phc2603/assets/76521214/6d2b2da6-a32c-4395-8f81-18aba2eed47c) Trabalho como Engenheiro de Software, utilizando principalmente Javascript, React, HTML e ElasticSearch
+- 🤖 Trabalho como Engenheiro de Software, utilizando principalmente Javascript, React, HTML e ElasticSearch
 - 🤖 Gosto de Desenvolvimento de Software, Robótica, IA, Segurança da Informação
 - 📫 Contato: pedro.caillaux@gmail.com
           
