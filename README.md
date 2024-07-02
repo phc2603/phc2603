@@ -2,22 +2,22 @@
 <hr>
 <p>🎓 I'm a Computer Engineering student at PUC Minas, currently in my 6th semester out of 10 (6/10).<p>
 <h2>🔧 Technologies & Tools</h2>
-<hr>
+  
 - Primary Programming Language: Python - using Pycharm and VsCode
 - Architecture: Javascript - Backend developer and Aplications/API
 - Embedded Systems and IoT: Extensive experience in C/C++
 - Desktop Applications: Java and Python 
 - Mobile Development: Flutter and Dart
 <h2>💼 Professional Experience</h2>
-<hr>
+  
 Currently, I'm a Software Engineer at a startup called Levty, which provides smart and automatization solutions to other companies
 <h2>🌱 What I'm Learning</h2>
-<hr>
+
 I'm continuously expanding my knowledge and skills, especially in:
 - Backend Development with focus on Javascript and NodeJs
 - Machine Learning and Deep Learning, with focus on Python libraries such as Tensorflow 2.0 and scikit-learn
 <h2>📫 Get in Touch</h2>
-<hr>
+
 - <a href="https://www.linkedin.com/in/pedro-caillaux-82480a232/"> Linkedin </a>
 - Email: pedro.caillaux@gmail.com
 Feel free to check out my repositories and projects. I'm always open to collaborating on exciting projects and learning new things!
