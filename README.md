@@ -14,7 +14,7 @@ Currently, I'm a Software Engineer at a startup called Levty, which provides sma
 <h2>🌱 What I'm Learning</h2>
 
 I'm continuously expanding my knowledge and skills, especially in:
-- Machine Learning and Deep Learning - with focus on Python libraries such as Tensorflow 2.0 and scikit-learn
+- Machine Learning and Deep Learning - with focus on Python libraries such as Numpy, Pandas, MatplotLib, Tensorflow 2.0 and Scikit-learn
 - Backend Development - with focus on Javascript and NodeJs
 - Embedded Systems - with focus on FreeRtos and ROS (Robot Operational System)
 <h2>📫 Get in Touch</h2>
