@@ -1,11 +1,26 @@
-### Hello World! Me chamo Pedro Caillaux, muito prazer👋
-
-- 🔭 Estudante de Engenharia da Computação 5/10
-- 🌱 Sempre buscando masterizar mais em Python e Java
-- 🤖 Trabalho como Engenheiro de Software, utilizando principalmente Javascript, React, HTML e ElasticSearch
-- 🤖 Gosto de Desenvolvimento de Software, Robótica, IA, Segurança da Informação
-- 📫 Contato: pedro.caillaux@gmail.com
-          
+### Hello World! I'm Pedro Henrique Caillaux!👋
+<hr>
+🎓 I'm a Computer Engineering student at PUC Minas, currently in my 6th semester out of 10 (6/10).
+### 🔧 Technologies & Tools
+<hr>
+- Primary Programming Language: Python - using Pycharm and VsCode
+- Architecture: Javascript - Backend developer and Aplications/API
+- Embedded Systems and IoT: Extensive experience in C/C++
+- Desktop Applications: Java and Python 
+- Mobile Development: Flutter and Dart
+💼 Professional Experience
+<hr>
+Currently, I'm a Software Engineer at a startup called Levty, which provides smart and automatization solutions to other companies
+🌱 What I'm Learning
+<hr>
+I'm continuously expanding my knowledge and skills, especially in:
+- Backend Development with focus on Javascript and NodeJs
+- Machine Learning and Deep Learning, with focus on Python libraries such as Tensorflow 2.0 and scikit-learn
+📫 Get in Touch
+<hr>
+- <a href="https://www.linkedin.com/in/pedro-caillaux-82480a232/"> Linkedin </a>
+- Email: pedro.caillaux@gmail.com
+Feel free to check out my repositories and projects. I'm always open to collaborating on exciting projects and learning new things!
 <div align="center">
   <a href="https://github.com/phc2603">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phc2603&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
