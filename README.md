@@ -14,8 +14,9 @@ Currently, I'm a Software Engineer at a startup called Levty, which provides sma
 <h2>🌱 What I'm Learning</h2>
 
 I'm continuously expanding my knowledge and skills, especially in:
-- Backend Development with focus on Javascript
 - Machine Learning and Deep Learning, with focus on Python libraries such as Tensorflow 2.0 and scikit-learn
+- Backend Development with focus on Javascript and NodeJs
+- Embedded Systems with focus on FreeRtos and ROS (Robot Operational System)
 <h2>📫 Get in Touch</h2>
 
 - <a href="https://www.linkedin.com/in/pedro-caillaux-82480a232/"> Linkedin </a>
