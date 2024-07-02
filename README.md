@@ -10,7 +10,7 @@
 - Mobile Development: Flutter and Dart
 <h2>💼 Professional Experience</h2>
   
-Currently, I'm a Software Engineer at a startup called Levty, which provides smart and automatization solutions to other companies
+Currently, I'm a Software Engineer at a startup called Levty, which provides smart and automation solutions to other companies
 <h2>🌱 What I'm Learning</h2>
 
 I'm continuously expanding my knowledge and skills, especially in:
