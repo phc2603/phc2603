@@ -4,7 +4,7 @@
 <h2>🔧 Technologies & Tools</h2>
   
 - Primary Programming Language: Python - using Pycharm and VsCode
-- Architecture: Javascript - Backend developer and Aplications/API
+- Architecture: Web development and Aplications/API in Javascript
 - Embedded Systems and IoT: Extensive experience in C/C++
 - Desktop Applications: Java and Python 
 - Mobile Development: Flutter and Dart
