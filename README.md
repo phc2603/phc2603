@@ -1,6 +1,6 @@
 <h1>Hello World! I'm Pedro Henrique Caillaux!👋</h1>
 
-<p>🎓 I'm a Computer Engineering student at PUC Minas, currently in my 6th semester out of 10 (6/10).<p>
+<p>🎓 I'm a Computer Engineering student at PUC Minas, currently in my 6th semester out of 10 (8/10).<p>
 <h2>🔧 Technologies & Tools</h2>
   
 - Primary Programming Language: Python - using Pycharm and VsCode
